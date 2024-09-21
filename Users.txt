@@ -1,0 +1,11 @@
+Furkan Şahin frkn 2410 Private fzlt,ays,brk
+Fazilet Yaydem fzlt 0603 Private frkn,fth,brk
+Fatih Yaydem fth ablam Public ays,ogzglcn,frkngnc,fzlt
+Burak Şahin brk 123 Public ays,root,ogzglcn,frkngnc,frkn,fzlt
+ayse shn ays 1234 Public brk,root,frkn
+ROOT USER root 111 Public ays,brk,frkngnc
+dd dd aysae aa Public frkngnc
+sdrftgy drfgtyh frkn1 dfghjk Private null
+dfghjk dfgh fzlt1 123 Public null
+OğuzGulcin Elmalı ogzglcn 12345 Public brk,fth
+Furkan Gonca frkngnc 24100603 Public aysae,fth,brk,root

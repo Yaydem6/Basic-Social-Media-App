@@ -1,0 +1,11 @@
+frkn/Selam,Nasılsın/Merhaba,selam,merhaba,evet,yepp,günaydın
+fzlt/Merhaba,günaydın/Selam,Nasılsın,evet,yepp
+fth/null/merhabalar,AŞKIIIIMMMM,Merhaba,günaydın
+brk/evet,yepp/selam,merhaba,merhabalar,merhabalar,AŞKIIIIMMMM,Selam,Nasılsın,Merhaba,günaydın
+ays/selam,merhaba/evet,yepp,merhabalar,Selam,Nasılsın
+root/merhabalar/selam,merhaba,evet,yepp,AŞKIIIIMMMM
+aysae/null/AŞKIIIIMMMM
+frkn1/null/null
+fzlt1/null/null
+ogzglcn/merhabalar/evet,yepp
+frkngnc/AŞKIIIIMMMM/evet,yepp,merhabalar
